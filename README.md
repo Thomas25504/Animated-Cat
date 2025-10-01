@@ -30,7 +30,7 @@ project-folder/
 ├─ index.html        # Main HTML file
 ├─ spritesheet.png   # Horizontal cat sprite sheet
 └─ README.md         # Project documentation
-└─ main.js         # Javascript file
+└─ main.js           # Javascript file
 ```
 
 ## Configuration
