@@ -6,7 +6,7 @@ A simple HTML/CSS/JavaScript project that animates a horizontally stacked cat sp
 
 - Animates a horizontal sprite sheet frame by frame.
 - Adjustable frame rate via JavaScript (`fps`).
-- Hover bubble shows “meow 🐱” above the cat.
+- Hover bubble shows “MEOW” above the cat.
 - Bubble can be positioned and scaled relative to the sprite.
 - Pixel-art-friendly scaling using `image-rendering: pixelated`.
 - Fully responsive to sprite scale adjustments.
@@ -30,6 +30,7 @@ project-folder/
 ├─ index.html        # Main HTML file
 ├─ spritesheet.png   # Horizontal cat sprite sheet
 └─ README.md         # Project documentation
+└─ main.js         # Javascript file
 ```
 
 ## Configuration
